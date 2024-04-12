@@ -1,6 +1,6 @@
-### Hi there 👋
-## Welcome to my GitHub Profile 😄
+# Welcome to my GitHub Profile 👋
 My name is Chiara and I'm a Computer Engineering student.
+👩‍💻
 <!--
 **chiarasanguineti/chiarasanguineti** is a ✨_special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
